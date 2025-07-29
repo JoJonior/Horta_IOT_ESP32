@@ -1,0 +1,7 @@
+#define ssid "NOME DA REDE WIFI"
+#define password "SENHA DO WIFI"
+#define supabase_url  ""
+#define anon_key  ""
+#define email  ""
+#define password_user  ""
+#define id_horta ""
