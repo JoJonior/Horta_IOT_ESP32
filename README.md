@@ -26,18 +26,26 @@ Este projeto apresenta uma solução de irrigação automatizada utilizando Inte
 ![Materiais](img/materiais.png)
 
 # Circuito do Sistema 
+
 ![Circuito do Sistema](img/circuito_sistema.png)
+
 ![Foto do Sistema real](img/Sistema_real.png)
 
 # Diagrama de Blocos da Arquitetura do Sistema.
+
 ![Diagrama de Blocos de Arquitetura de Sistema.](img/Diagrama_de_blocos.png)
 
 # Telas do Aplicativo:
 ## Marcando horarios da irrigação
+
 ![Telas do aplictivo](img/telas_1.png)
+
 ## Calibrando o Sensor de Umidade do Solo
+
 ![Foto do Sistema real](img/telas_2.png)
+
 # Fotos da Horta
+
 ![Horta](img/horta_fotos.png)
 
 # Melhorias em Andamento
