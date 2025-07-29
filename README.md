@@ -23,37 +23,37 @@ Este projeto apresenta uma solução de irrigação automatizada utilizando Inte
 - Modulo Relé​
 - Sensor de Temperatura DHT11​
 
-![Foto dos Materiais.](/img/materiais.png)
+![Foto dos Materiais.](img/materiais.png)
 
 # Circuito do Sistema 
 
-![Circuito do Sistema.](/img/circuito_sistema.png)
+![Circuito do Sistema.](img/circuito_sistema.png)
 
-![Foto do Sistema real.](/img/Sistema_real.png)
+![Foto do Sistema real.](img/Sistema_real.png)
 
 # Diagrama de Blocos da Arquitetura do Sistema.
 
-![Diagrama de Blocos de Arquitetura de Sistema.](/img/Diagrama_de_blocos.png)
+![Diagrama de Blocos de Arquitetura de Sistema.](img/Diagrama_de_blocos.png)
 
 # Telas do Aplicativo:
 ## Marcando horarios da irrigação
 
-![Telas do aplictivo.](/img/telas_1.png)
+![Telas do aplictivo.](img/telas_1.png)
 
 ## Calibrando o Sensor de Umidade do Solo
 
-![Foto do Sistema real.](/img/telas_2.png)
+![Foto do Sistema real.](img/telas_2.png)
 
 # Fotos da Horta
 
-![Fotos da Horta com o sistema aplicado.](/img/horta_fotos.png)
+![Fotos da Horta com o sistema aplicado.](img/horta_fotos.png)
 
 # Melhorias em Andamento
 - Utilizar Gotejamento (Irrigação Eficiente)
 - Histórico de irrigações 
 - Sensor de vazão de água 
 
-![Fotos das melhorias sugeridas.](/img/melhorias.png)
+![Fotos das melhorias sugeridas.](img/melhorias.png)
 
 
 
