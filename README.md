@@ -56,7 +56,15 @@ Este projeto apresenta uma solução de irrigação automatizada utilizando Inte
 
 ## Certificado de Apresentação
 
-Este projeto foi apresentado no **VII JORNADA DE ENSINO, PESQUISA E EXTENSÃO (SEMINÁRIO - X SIC - SEMINÁRIO DE INICIAÇÃO CIENTÍFICA)**, realizado em **22/10/2024 a 25/10/2024**.  
-[Visualizar certificado](img/Certificado_EVENTO_IC_censurado.pdf)
+Este projeto foi apresentado no **VII JORNADA DE ENSINO, PESQUISA E EXTENSÃO (SEMINÁRIO - X SIC - SEMINÁRIO DE INICIAÇÃO CIENTÍFICA)**, realizado em **22/10/2024 a 25/10/2024**. 
+
+<img width="1110" height="775" alt="Print do Certificado" src="https://github.com/user-attachments/assets/8ee717d5-77b7-42d1-bd1d-87f8fd837ebf" />
+
+- Número do documento: 131347
+- Código de Verificação: e2da41573b
+- Data de emissão: 29/07/2025 
+Para verificar a autenticidade deste documento acesse https://sigeventos.unifesspa.edu.br/sigeventos/documentos, informando o
+**número do documento**, **data de emissão do documento** e o **código de Verificação**
+
 
 
