@@ -22,7 +22,8 @@ Este projeto apresenta uma solução de irrigação automatizada utilizando Inte
 - Modulo Relé​
 - Sensor de Temperatura DHT11​
 
-![Foto dos Materiais.](img/materiais.png)
+<img width="911" height="511" alt="Foto dos Materiais" src="https://github.com/user-attachments/assets/7d4ac2c4-8774-4a2c-9340-bbca6b5a832a" />
+
 
 # Circuito do Sistema 
 
