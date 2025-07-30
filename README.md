@@ -4,7 +4,6 @@
 Este projeto apresenta uma solução de irrigação automatizada utilizando Internet das Coisas (IoT), com controle via ESP32 e sensores ambientais. A irrigação é realizada com base em dois métodos principais:
 
 - Baseado na Umidade do Solo: A irrigação é ativada automaticamente quando a umidade atinge níveis críticos.
-
 - Baseado em Horários Programados: O sistema segue uma agenda pré-definida para irrigar a horta.
 
 # Tecnologias
@@ -55,6 +54,9 @@ Este projeto apresenta uma solução de irrigação automatizada utilizando Inte
 
 ![Fotos das melhorias sugeridas.](img/melhorias.png)
 
+## Certificado de Apresentação
 
+Este projeto foi apresentado no **VII JORNADA DE ENSINO, PESQUISA E EXTENSÃO (SEMINÁRIO - X SIC - SEMINÁRIO DE INICIAÇÃO CIENTÍFICA)**, realizado em **22/10/2024 a 25/10/2024**.  
+[Visualizar certificado](img/Certificado_EVENTO_IC_censurado.pdf)
 
 
